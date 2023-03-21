@@ -19,3 +19,6 @@ body {
   margin-bottom: 16px;
 }
 
+.country-list__item{
+  list-style: none;
+}
